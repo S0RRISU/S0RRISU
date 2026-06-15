@@ -1,11 +1,4 @@
-
-<!--
-**S0RRISU/S0RRISU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Olá, eu sou Marcelo Lopes da Silva 👋
+# Olá, eu sou Marcelo Lopes da Silva 👋
 
 💻 Desenvolvedor Web em transição para a área de Tecnologia.
 
@@ -13,9 +6,9 @@ Here are some ideas to get you started:
 
 ## Sobre mim
 
-Tenho conhecimentos em HTML, CSS, JavaScript, Git, GitHub e Supabase.
+Tenho experiência prática com HTML, CSS, JavaScript, Git, GitHub e Supabase.
 
-Atualmente desenvolvo projetos próprios com foco em aplicações web, sistemas responsivos, autenticação de usuários, banco de dados e painéis administrativos.
+Atualmente desenvolvo projetos próprios focados em sistemas web, interfaces responsivas, autenticação de usuários, banco de dados e painéis administrativos.
 
 ## Tecnologias
 
@@ -27,11 +20,13 @@ Atualmente desenvolvo projetos próprios com foco em aplicações web, sistemas 
 - Supabase
 - Banco de Dados
 
-## Projeto em destaque
+## Projeto em Destaque
 
 ### Monte Sinai
 
-Sistema web para comércio e delivery, com:
+Sistema web para comércio e delivery.
+
+Funcionalidades:
 
 - Login e cadastro de usuários
 - Painel administrativo
@@ -42,11 +37,4 @@ Sistema web para comércio e delivery, com:
 
 ## Objetivo
 
-Conquistar minha primeira oportunidade profissional na área de Tecnologia e evoluir como desenvolvedor.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conquistar minha primeira oportunidade profissional na área de Tecnologia e continuar evoluindo como desenvolvedor.
