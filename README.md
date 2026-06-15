@@ -1,24 +1,24 @@
-# Olá, eu sou Marcelo Lopes da Silva 👋
+# 👋 Olá, eu sou Marcelo Lopes da Silva
 
-💻 Desenvolvedor Web em transição para a área de Tecnologia
-
+💻 Desenvolvedor Web em transição para a área de Tecnologia da Informação
 📍 São Paulo - SP
+🚀 Foco em desenvolvimento web, sistemas responsivos e aplicações conectadas a banco de dados
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de software.
 
-Atualmente atuo no desenvolvimento de projetos próprios focados em aplicações web modernas, utilizando HTML, CSS, JavaScript, GitHub e Supabase.
+Atualmente desenvolvo projetos próprios utilizando **HTML, CSS, JavaScript, GitHub, Supabase, PostgreSQL e Netlify**, com foco em aplicações web funcionais, responsivas e conectadas a banco de dados.
 
-Meu principal projeto é o **Monte Sinai Ecommerce**, uma plataforma completa para gerenciamento de produtos, pedidos, usuários e operações administrativas.
+Minha trajetória profissional começou em áreas operacionais, como açougueiro e ajudante de eletricista, experiências que me ajudaram a desenvolver responsabilidade, organização, atenção aos detalhes, atendimento ao cliente, trabalho em equipe e resolução de problemas.
 
-Além da experiência técnica, desenvolvi habilidades profissionais em atendimento ao cliente, resolução de problemas, trabalho em equipe e organização através das minhas experiências profissionais anteriores.
+Hoje estou construindo minha transição para a área de tecnologia através de projetos práticos e evolução constante.
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 ### Front-end
 
@@ -26,59 +26,64 @@ Além da experiência técnica, desenvolvi habilidades profissionais em atendime
 * CSS3
 * JavaScript
 
-### Ferramentas
-
-* Git
-* GitHub
-* VS Code
-* Netlify
-
-### Back-end e Banco de Dados
+### Banco de Dados e Backend
 
 * Supabase
 * PostgreSQL
 
+### Ferramentas
+
+* Git
+* GitHub
+* Netlify
+* VS Code
+
 ---
 
-## Projetos em destaque
+## 🚀 Projeto em destaque
 
 ### Monte Sinai Ecommerce
 
-Sistema completo para venda de água, gás e produtos de limpeza.
+Plataforma web para venda local de água, gás e produtos de limpeza.
 
-Funcionalidades:
+O projeto possui:
 
-* Login e cadastro de usuários
+* Catálogo de produtos
+* Carrinho de compras
+* Checkout via WhatsApp
+* Autenticação de usuários
+* Histórico de pedidos
 * Painel administrativo
-* Controle de produtos
 * Controle de estoque
-* Gestão de pedidos
-* Integração com WhatsApp
-* Banco de dados Supabase
-* Responsividade Mobile/Desktop
-* PWA instalável
+* Upload de imagens
+* Permissões por cargo
+* Banco de dados com Supabase
+* Deploy com Netlify
+
+🔗 Repositório:
+https://github.com/S0RRISU/monte-sinai-ecommerce
+
+🌐 Site publicado:
+https://monte-sinai.netlify.app
 
 ---
 
-## Objetivo Profissional
+## 🎯 Objetivo profissional
 
-Busco minha primeira oportunidade profissional na área de Tecnologia como:
+Busco minha primeira oportunidade profissional na área de tecnologia como:
 
 * Desenvolvedor Web Júnior
 * Desenvolvedor Front-end Júnior
-* Analista de Suporte
+* Analista de Suporte Júnior
+* Help Desk
 * Assistente de TI
 
-Meu objetivo é transformar conhecimento prático em experiência profissional e continuar evoluindo como desenvolvedor.
+Meu objetivo é evoluir como profissional, aprender com pessoas mais experientes e contribuir no desenvolvimento de soluções reais.
 
 ---
 
-## Contato
+## 📫 Contato
 
-📧 [marcelol527319@gmail.com](mailto:marcelol527319@gmail.com)
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/marcelosil
-
-🔗 GitHub:
-https://github.com/S0RRISU
+📧 E-mail: [marcelol527319@gmail.com](mailto:marcelol527319@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/marcelosil
+🔗 GitHub: https://github.com/S0RRISU
